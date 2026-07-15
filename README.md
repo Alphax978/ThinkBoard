@@ -1,4 +1,4 @@
-# All great missons start with a thought - Don't just think, note it.
+# Don't just think it. Note it.
 ---------------------------------------------------
 ### live at: https://thinkboardpro.onrender.com/
 
